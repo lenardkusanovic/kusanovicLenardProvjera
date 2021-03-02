@@ -1,0 +1,11 @@
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\bin\Debug\kusanovicLenardProvjera.exe.config
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\bin\Debug\kusanovicLenardProvjera.exe
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\bin\Debug\kusanovicLenardProvjera.pdb
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.csprojAssemblyReference.cache
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.Form1.resources
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.Form2.resources
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.Properties.Resources.resources
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.csproj.GenerateResource.cache
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.exe
+C:\Users\Učenik6\Desktop\Nova mapa\kusanovicLenardProvjera\kusanovicLenardProvjera\obj\Debug\kusanovicLenardProvjera.pdb
